@@ -1,0 +1,47 @@
+selector{
+	
+}
+body { 
+	background-image: url(backgroundimage.jpg);
+background-size: cover;
+ }
+h2, p {
+	color: #AA4139
+	text-align: center;
+	border: 5px dashed rgb(255,176,170, 0.5);
+	cursor: pointer;
+ font-size: }
+
+p + h2 { 
+color: pink; 
+
+}
+
+p { 
+
+text-decoration:  
+
+
+
+
+}
+
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext: last child{
+	border: 5px;
+div1 }
+.boxmodel { 
+	border: 5px solid red
+	display: inline-block;
+	padding: 20 px ;
+
+ }

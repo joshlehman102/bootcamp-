@@ -1,0 +1,14 @@
+selector {
+	property: Value;
+
+/*}*/
+
+p { 
+color: pink; 
+
+}
+
+
+p {
+	color: green;
+}
